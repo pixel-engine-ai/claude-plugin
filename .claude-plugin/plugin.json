@@ -1,0 +1,27 @@
+{
+  "name": "pixel-engine",
+  "version": "1.0.0",
+  "description": "Game-ready pixel art for your project: sprites at exact pixel sizes, looping animations and sprite sheets, pixel-art conversion of existing images, and transparent backgrounds, on your Pixel Engine account.",
+  "author": {
+    "name": "Pixel Engine",
+    "email": "hello@pixelengine.ai",
+    "url": "https://pixelengine.ai"
+  },
+  "homepage": "https://pixelengine.ai",
+  "repository": "https://github.com/pixel-engine-ai/claude-plugin",
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://pixelengine.ai/guides/connect",
+  "privacyPolicyUrl": "https://pixelengine.ai/privacy",
+  "termsOfServiceUrl": "https://pixelengine.ai/terms",
+  "keywords": [
+    "pixel-art",
+    "sprites",
+    "sprite-sheet",
+    "animation",
+    "game-assets",
+    "game-development",
+    "godot",
+    "unity"
+  ]
+}

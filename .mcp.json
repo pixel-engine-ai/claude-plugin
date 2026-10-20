@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pixel-engine": {
+      "type": "http",
+      "url": "https://api.pixelengine.ai/functions/v1/mcp"
+    }
+  }
+}

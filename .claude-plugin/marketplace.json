@@ -1,0 +1,26 @@
+{
+  "name": "pixel-engine",
+  "owner": {
+    "name": "Pixel Engine",
+    "email": "hello@pixelengine.ai"
+  },
+  "metadata": {
+    "description": "Pixel Engine's plugin for Claude: game-ready pixel art, animations and sprite sheets on your Pixel Engine account."
+  },
+  "plugins": [
+    {
+      "name": "pixel-engine",
+      "source": "./",
+      "description": "Game-ready pixel art for your project: sprites at exact pixel sizes, looping animations and sprite sheets, pixel-art conversion, and transparent backgrounds.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Pixel Engine",
+        "email": "hello@pixelengine.ai"
+      },
+      "homepage": "https://pixelengine.ai",
+      "repository": "https://github.com/pixel-engine-ai/claude-plugin",
+      "license": "MIT",
+      "keywords": ["pixel-art", "sprites", "sprite-sheet", "animation", "game-assets"]
+    }
+  ]
+}
