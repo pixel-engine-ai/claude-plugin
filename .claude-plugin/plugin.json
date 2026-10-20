@@ -12,6 +12,7 @@
   "license": "MIT",
   "icon": "./assets/icon.png",
   "documentationUrl": "https://pixelengine.ai/guides/connect",
+  "supportUrl": "https://pixelengine.ai/guides/connect",
   "privacyPolicyUrl": "https://pixelengine.ai/privacy",
   "termsOfServiceUrl": "https://pixelengine.ai/terms",
   "keywords": [
